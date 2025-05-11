@@ -58,3 +58,5 @@ Get your AI intern now for just **\$50/month**.
 Smart, fast, reliable—and ready to work from day one.
 
 https://zp1v56uxy8rdx5ypatb0ockcb9tr6a-oci3--5173--4d9fd228.local-credentialless.webcontainer-api.io/#features
+
+I encountered an error processing your request: "Unable to determine the intended type of the `dict`. For `Content`, a 'parts' key is expected. For `Part`, either an 'inline_data' or a 'text' key is expected. For `Blob`, both 'mime_type' and 'data' keys are expected. However, the provided dictionary has the following keys: ['role', 'content']"
