@@ -57,6 +57,3 @@ All powered via **Model Context Protocol (MCP)** for real-time, multi-tool execu
 Get your AI intern now for just **\$50/month**.
 Smart, fast, reliable—and ready to work from day one.
 
----
-
-Want help writing a one-pager or landing site next?
