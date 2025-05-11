@@ -20,7 +20,7 @@ With **ePM**, a single product manager can operate at **10x** capacity—faster,
 
 * ⚡️ **50x faster** than a human intern.
 * 🧩 **10x broader** skill coverage—analytics, documentation, support ops, QA, design ops.
-* 💸 **Near-zero cost**—just **\$25/month** for an intern who never needs onboarding.
+* 💸 **Near-zero cost**—just **\$50/month** for an intern who never needs onboarding.
 * 📈 **Built for scale**—From consumer tech and fintech to supply chain and SaaS, ePM fits every product context.
 
 ---
